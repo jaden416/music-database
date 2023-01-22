@@ -1,8 +1,3 @@
-//Name: Jaden Lewis-Chambers
-//Dr. Steinberg
-//COP3223C 
-//Large Program 4
-
 #include <ctype.h>
 #include <stdio.h>
 #include <string.h>
